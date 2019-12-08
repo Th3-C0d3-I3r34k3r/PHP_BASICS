@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>03_moreVariables</title>
+</head>
+<body>
+	<?php
+//variable declaration
+$my_name = "baby";
+$my_age = 25;
+$fav_color = "blue";
+
+echo("my name is: $my_name and my age is $my_age and my fav-color is: $fav_color.");
+?>
+</body>
+</html>
